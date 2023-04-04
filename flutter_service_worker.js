@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b6d381885681b6738912ea2cc40bfd28",
+  "assets/AssetManifest.json": "713df3458773fd086de7f7f7449283c7",
 "assets/assets/11.png": "98468ca8f8651bc4ef5efcfe75fc195f",
 "assets/assets/12.png": "abfc58acf87a46681dcd1b350950077e",
 "assets/assets/13.png": "24f88fc42f27943ab1682de8f8baa126",
@@ -23,6 +23,8 @@ const RESOURCES = {
 "assets/assets/blogpic3.png": "c4c448ab1cdd15a6882ccf6782548a49",
 "assets/assets/blogpic4.png": "7e137055fd49639c7a9052055e34278d",
 "assets/assets/blogpic5.png": "9573e2a9ddacf453edee6cab38a347a2",
+"assets/assets/blue.png": "6ca5816d8c1f2ef96334c9f73cd4cd73",
+"assets/assets/bluehome.png": "0e348149d68baef1ba259df118f39fe2",
 "assets/assets/calendar.png": "f3123533000d9581f6b44a2e6ee9d84c",
 "assets/assets/certificate.png": "e39ea62fdf1f15fdc6bdd8c894ed82a6",
 "assets/assets/facebook.png": "76a6b4294edeec48c9d616fa5c384adc",
@@ -56,9 +58,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "71b95f28fb22d193d89030e66439c38f",
-"/": "71b95f28fb22d193d89030e66439c38f",
-"main.dart.js": "c1e07cd2adc552e9cb75191b748a22f8",
+"index.html": "a752681e2ad65a193e371e3b73fab282",
+"/": "a752681e2ad65a193e371e3b73fab282",
+"main.dart.js": "830dfdc526e7d3d90e08ad0c076ba936",
 "manifest.json": "41c0fd832a62ef2d79da185db21180e9",
 "version.json": "397b325241089b82fd8ccb3d7201c781"
 };
