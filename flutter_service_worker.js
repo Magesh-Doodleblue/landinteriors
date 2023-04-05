@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "713df3458773fd086de7f7f7449283c7",
+  "assets/AssetManifest.json": "a429c3dc440d6022560eb5df1014d51e",
 "assets/assets/11.png": "98468ca8f8651bc4ef5efcfe75fc195f",
 "assets/assets/12.png": "abfc58acf87a46681dcd1b350950077e",
 "assets/assets/13.png": "24f88fc42f27943ab1682de8f8baa126",
@@ -12,6 +12,7 @@ const RESOURCES = {
 "assets/assets/aboutmobile.png": "220234986b1c2f0a80ef7a5af10f1552",
 "assets/assets/aboutweb.png": "ba786ca75fb0aa1b62f2a1b86a84259e",
 "assets/assets/bed.png": "a0b4aab40e7993975644c8c9eefb56d2",
+"assets/assets/bitcoin.png": "ebdeac6cb5c5e658f02a51d475177ee4",
 "assets/assets/blog1.png": "c75a204882d23298799770040c2a92c9",
 "assets/assets/blog2.png": "3859ad732a6aa85f2d7f406983a058d3",
 "assets/assets/blog3.png": "97882428c4c37ce0b63ce76adf086b7e",
@@ -58,9 +59,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a752681e2ad65a193e371e3b73fab282",
-"/": "a752681e2ad65a193e371e3b73fab282",
-"main.dart.js": "830dfdc526e7d3d90e08ad0c076ba936",
+"index.html": "c26394f3da47837f4e9474789510f705",
+"/": "c26394f3da47837f4e9474789510f705",
+"main.dart.js": "1d93c02365a2456cc9f39aa7821ebb87",
 "manifest.json": "41c0fd832a62ef2d79da185db21180e9",
 "version.json": "397b325241089b82fd8ccb3d7201c781"
 };
